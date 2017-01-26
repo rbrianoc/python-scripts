@@ -5,7 +5,7 @@
 #     updated 22.10.2015 17:05
 # to be used with telegram-bot plugin
 #---------------------------------------
-# usage: fetchStatusATM 1234567
+# usage: fetchStatusATMCL 1234567
 # script name followed by space and TID/UKO/CRO
 #---------------------------------------
 
